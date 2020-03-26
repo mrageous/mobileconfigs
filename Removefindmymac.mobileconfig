@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisableFMMiCloudSetting</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures iCloud Find My settings</string>
+			<key>PayloadDisplayName</key>
+			<string>iCloud Find My</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.75A5DB8F-1C6C-4227-B82C-123AE5532872.com.apple.icloud.managed.92543846-CAB1-4050-9B70-A4A74D391D2C</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.icloud.managed</string>
+			<key>PayloadUUID</key>
+			<string>92543846-CAB1-4050-9B70-A4A74D391D2C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.75A5DB8F-1C6C-4227-B82C-123AE5532872.com.apple.applicationaccess.5BC048F9-2FA8-433A-B162-BE1BB87C638C</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>5BC048F9-2FA8-433A-B162-BE1BB87C638C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowCloudFMM</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Remove find my mac and prevents actuvation lock</string>
+	<key>PayloadDisplayName</key>
+	<string>Remove find my mac</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.75A5DB8F-1C6C-4227-B82C-123AE5532872</string>
+	<key>PayloadOrganization</key>
+	<string>ProfileCreator</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>75A5DB8F-1C6C-4227-B82C-123AE5532872</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
